@@ -39,7 +39,7 @@ Diseño adaptado para cualquier tipo de pantalla del dispositivo:
 
 ### El proyecto se encuentra alojado en mi repositorio de GitHub:
 
-- [Pagina web](https://miguelramosalarcon.github.io/ACCESIBLE-FORM-UI-ROADMAP/)
+- [Pagina web](https://miguelramosalarcon.github.io/Accessible-Form-UI-Roadmap/)
 - [Codigo fuente]()
 - [Link](https://roadmap.sh/projects/accessible-form-ui)
 > [!IMPORTANT]
